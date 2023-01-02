@@ -1,0 +1,14 @@
+fonts.mk filter=lfs diff=lfs merge=lfs -text
+Rubik-Medium.ttf filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA.pb filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BY_EXCEPTION_ONLY filter=lfs diff=lfs merge=lfs -text
+Rubik-MediumItalic.ttf filter=lfs diff=lfs merge=lfs -text
+DESCRIPTION.en_us.html filter=lfs diff=lfs merge=lfs -text
+Rubik-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+Rubik-BoldItalic.ttf filter=lfs diff=lfs merge=lfs -text
+Rubik-Bold.ttf filter=lfs diff=lfs merge=lfs -text
+Rubik-Italic.ttf filter=lfs diff=lfs merge=lfs -text
